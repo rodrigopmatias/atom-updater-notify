@@ -24,4 +24,5 @@ Be automatically notified of updates to Atom on Linux and Mac systems.
 
 I am grateful for the contributions of:
 
-1. Andy Richardson (andyrichardson) https://andythedeveloper.com
+1. Andy Richardson (andyrichardson on github) https://andythedeveloper.com
+1. Marc (snrmwg on github) http://www.schneider-marc.biz/
