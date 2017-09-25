@@ -39,7 +39,8 @@
       "enum": [
         "Debian, Ubuntu",
         "RedHat",
-        "Mac OSX"
+        "Mac OSX",
+        "Generic Linux"
       ],
       "description": "The type of package for download."
     }
