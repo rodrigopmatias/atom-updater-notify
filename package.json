@@ -34,13 +34,15 @@
     },
     "pkgType": {
       "type": "string",
-      "default": "Debian, Ubuntu",
+      "default": "DO_AUTODETECTION",
       "title": "Package type",
       "enum": [
         "Debian, Ubuntu",
         "RedHat",
         "Mac OSX",
-        "Generic Linux"
+        "Generic Linux",
+        "Unknown",
+        "DO_AUTODETECTION"
       ],
       "description": "The type of package for download."
     }
@@ -50,5 +52,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "getos": "3.1.0"
+  }
 }
